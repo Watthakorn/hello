@@ -5,5 +5,5 @@ My name is Watthakorn Malikow
 
 Project List
 
-MipMap
-2048 Games
+- MipMap
+- 2048 Games
