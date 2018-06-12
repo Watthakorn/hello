@@ -8,3 +8,4 @@ Project List
 - MipMap
 - 2048 Game
 - Othello in CMD
+- EZ finance
