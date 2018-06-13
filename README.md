@@ -27,7 +27,7 @@ Project List (Bachelor of Science in Information Technology, King Mongkut’s In
     In 2048 Games, you have to control arrow keys for combine the same number in same row or column to get **2048**  
     Or you can play other mode viz *Competitive mode*, *Timeracing mode* or *Bomb mode* that have helper from the start
     
-    > mini project of Object-Oriented Programing Course
+    > mini project of Object-Oriented Programing Course  
     > *Work with Java language*
 
 - Training Approval System
