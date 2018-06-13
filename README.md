@@ -3,14 +3,18 @@
 My name is Watthakorn Malikow
 
 
-Project List
+Project List (Bachelor of Science in Information Technology, King Mongkut’s Institute of Technology Ladkrabang)
 
 
-- [EZ finance](github.com/Watthakorn/EZ_finance)
-...mini Project of Problem Solving of Information Technology Course
-...Work with Python language
+- [EZ finance](https://github.com/Watthakorn/EZ_finance)
 
-...
+    With Ez_finance, you can calculate interest on deposits
+
+    > mini Project of Problem Solving of Information Technology Course  
+    > *Work with Python language*
+   
+
+⋅⋅⋅
 
 - Othello in CMD
 - 2048 Games
