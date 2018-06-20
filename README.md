@@ -24,7 +24,10 @@ Project List (Bachelor of Science in Information Technology, King Mongkut’s In
     You can play by typing target row and column
     
     > mini project of Computer Programming Course  
-    > *Work with C language*
+    > *Work with C language*  
+    
+    ![othel1](https://github.com/Watthakorn/hello/blob/master/assets/Picture4.png)  
+    ![othel2](https://github.com/Watthakorn/hello/blob/master/assets/Picture5.png)
     
 - [2048 Games](https://github.com/Watthakorn/2048Game)
 
@@ -32,9 +35,15 @@ Project List (Bachelor of Science in Information Technology, King Mongkut’s In
     Or you can play other mode viz *Competitive mode*, *Timeracing mode* or *Bomb mode* that have helper from the start
     
     > mini project of Object-Oriented Programing Course  
-    > *Work with Java language*
+    > *Work with Java language*  
+    
+    
+    ![2048_1](https://github.com/Watthakorn/hello/blob/master/assets/Picture6.png)
+    ![2048_2](https://github.com/Watthakorn/hello/blob/master/assets/Picture7.png)  
+    ![2048_3](https://github.com/Watthakorn/hello/blob/master/assets/Picture8.png)
+    ![2048_4](https://github.com/Watthakorn/hello/blob/master/assets/Picture9.png)
 
-- Training Approval System
+- Petition Approval System
 - MipMap
 - Football Field Reservation System
 - Bero console
