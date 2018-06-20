@@ -11,7 +11,11 @@ Project List (Bachelor of Science in Information Technology, King Mongkut’s In
     With Ez_finance, you can calculate interest on deposits with *now to future* or *future from now* modes
 
     > mini project of Problem Solving of Information Technology Course  
-    > *Work with Python language*
+    > *Work with Python language*  
+    
+    ![EZ_finance1](https://github.com/Watthakorn/hello/blob/master/assets/Picture1.png)  
+    ![EZ_finance2](https://raw.githubusercontent.com/Watthakorn/hello/master/assets/Picture2.png)
+    ![EZ_finance3](https://raw.githubusercontent.com/Watthakorn/hello/master/assets/Picture3.png)
    
 
 - [Othello in CMD](https://github.com/Watthakorn/OthelloInCMD)
